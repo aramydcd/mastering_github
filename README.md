@@ -19,7 +19,5 @@ I'm a student diving into the world of programming, with a special interest in P
 
 Feel free to connect or check out my projects right here on GitHub!
 
----
-
 > “Learning never exhausts the mind.” – Leonardo da Vinci
 > "We keeps learning everyday"
